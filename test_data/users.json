@@ -1,0 +1,10 @@
+{
+  "company1_admin": {
+    "email": "admin@company1.com",
+    "tenant": "company1"
+  },
+  "company2_user": {
+    "email": "user@company2.com",
+    "tenant": "company2"
+  }
+}
